@@ -1,4 +1,4 @@
-puppet-jdk
+jdk
 ==========
 
 Installation of oracle jdk on ubuntu
